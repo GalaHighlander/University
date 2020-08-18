@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mysqlcaca">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mysql-connector-java-8.0.20 (1).jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/gson-2.8.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
