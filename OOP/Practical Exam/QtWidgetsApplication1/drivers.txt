@@ -1,0 +1,2 @@
+Andrei,baby,10,10,1
+Costel,advanced,100,100,3
